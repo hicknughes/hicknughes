@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **nick.k.hughes@gmail.com**
 
-- 📄 Know about my experiences [ResumeLinkInbound](ResumeLinkInbound)
+- 📄 Know about my experiences [from my Resume](https://hicknughes.github.io/NHughes_Resume.pdf)
 
 - ⚡ Fun fact **Before this work, I managed active travel itineraries across Spain, Portugal and Costa Rica.**
 
