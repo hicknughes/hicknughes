@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **climate focused applications of ML/AI models.**
 
-- 🤝 I’m looking for help with [finding work opportunities translating business needs into technical solutions.](https://www.linkedin.com/in/hicknughes/)
+- 🤝 I’m looking for help with [finding employment opportunities translating business needs into technical solutions.](https://www.linkedin.com/in/hicknughes/)
 
 - 💬 Ask me about **Econometrics, ML, Climate Change, Product Management**
 
