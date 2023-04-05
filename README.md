@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nick Hughes</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A problem-solving people-person focused on technical solutions to global challenges.</h3>
 
 - 🔭 I’m currently working on [deep learning predictive modeling and classification.](https://www.fruitpunch.ai/challenges/ai-against-carbon-impact)
 
