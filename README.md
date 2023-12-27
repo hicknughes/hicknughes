@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Nick Hughes</h1>
 <h3 align="center">Product manager-turned-quant enabling technical solutions to environmental challenges.</h3>
 
-- 🔭 I’m currently working on [deep learning predictive modeling and classification.](https://www.fruitpunch.ai/challenges/ai-against-carbon-impact)
+- 🔭 I’m currently working on [ML pipelines for automated feature engineering, model creation and trade execution.](https://github.com/hicknughes/stock_robot)
 
-- 🌱 I’m currently learning **remote sensing and geospatial analytics.**
+- 🌱 I’m currently learning **AI-powered workflow automation.**
 
-- 👯 I’m looking to collaborate on **climate focused applications of ML/AI models.**
+- 👯 I’m looking to collaborate on **AI and ML powered tools that solve real-world problems.**
 
-- 🤝 I’m looking for help with [finding employment opportunities translating business needs into technical solutions.](https://www.linkedin.com/in/hicknughes/)
+- 🤝 I’m looking for help with [connecting with AI/ML development roles.](https://www.linkedin.com/in/hicknughes/)
 
-- 💬 Ask me about **Econometrics, ML, Climate Change, Product Management**
+- 💬 Ask me about **Econometrics, MLOps, Product Management, Climate Change**
 
 - 📫 How to reach me **nick.k.hughes@gmail.com**
 
