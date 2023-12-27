@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nick Hughes</h1>
-<h3 align="center">Product manager-turned-quant enabling technical solutions to environmental challenges.</h3>
+<h3 align="center">Product manager-turned-quant leveraging AI and ML to predict, automate and innovate around the challenges of today.</h3>
 
 - 🔭 I’m currently working on [ML pipelines for automated feature engineering, model creation and trade execution.](https://github.com/hicknughes/stock_robot)
 
