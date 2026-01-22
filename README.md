@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **nick.k.hughes@gmail.com**
 
-- 📄 Know about my experiences [from my Resume](https://hicknughes.github.io/NHughes_Resume.pdf)
+- 📄 See some of my work [in my Portfolio page](https://www.waive-ai.com/portfolio)
 
 - ⚡ Fun fact **Before this work, I managed active travel itineraries across Spain, Portugal and Costa Rica.**
 
