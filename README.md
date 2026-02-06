@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nick Hughes</h1>
 <h3 align="center">Product manager-turned-quant leveraging AI and ML to predict, automate and innovate around the challenges of today.</h3>
 
-- 🔭 I’m currently working on [ML pipelines for automated feature engineering, model creation and trade execution.](https://github.com/hicknughes/stock_robot)
+- 🔭 I’m currently helping [**SMB's modernize operations with AI, ML and automation.**](www.waive-ai.com)
 
-- 🌱 I’m currently learning **AI-powered workflow automation.**
+- 🌱 I’m currently learning **full stack development to deploy AI-powered products.**
 
 - 👯 I’m looking to collaborate on **AI and ML powered tools that solve real-world problems.**
 
