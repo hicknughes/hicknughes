@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **AI and ML powered tools that solve real-world problems.**
 
-- 🤝 I’m looking for help with connecting with AI/ML development roles. [LinkedIn](https://www.linkedin.com/in/hicknughes/)
+- 🤝 I’m looking for help with connecting with AI/ML implementation roles (i.e. FDE, Solution Consultant, Product Engineer). [LinkedIn](https://www.linkedin.com/in/hicknughes/)
 
 - 💬 Ask me about **Econometrics, MLOps, Product Management, Climate Change**
 
