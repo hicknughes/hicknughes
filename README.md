@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nick Hughes</h1>
 <h3 align="center">Product manager-turned-quant leveraging AI and ML to predict, automate and innovate around the challenges of today.</h3>
 
-- 🔭 I’m currently helping [**SMB's modernize operations with AI, ML and automation.**](www.waive-ai.com)
+- 🔭 I’m currently helping [**SMB's modernize operations with AI, ML and automation.**](www.waive-ai.com/)
 
 - 🌱 I’m currently learning **full stack development to deploy AI-powered products.**
 
